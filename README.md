@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **To-do List Project**
 
-- 🌱 I’m currently learning **Node.js, MongoDB, React & DevOps.**
+- 🌱 I’m currently learning **Node.js, Express & React.**
 
 - 👯 Recently made a **clone of Amazon webpage.**
 
