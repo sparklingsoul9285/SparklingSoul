@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/onkar9285" target="blank"><img src="https://img.shields.io/twitter/follow/onkar9285?logo=twitter&style=for-the-badge" alt="onkar9285" /></a> </p>
 
-- 🔭 I’m currently working on **To-do List Project**
+- 🔭 I’m currently working on **SimpleCode App Project.**
 
 - 🌱 I’m currently learning **ReactJS.**
 
-- 👯 Building an  **app named SimpleCode using ReactJs, JSX, JS**
+- 👯 Building an  **app named SimpleCode using ReactJs, JSX, JS.**
 
 - 📫 How to reach me : **onkarchavan830@gmail.com**
 
