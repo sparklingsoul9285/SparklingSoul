@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **SimpleCode App Project.**
 
-- 🌱 I’m currently learning **ReactJS.**
+- 🌱 I’m currently learning **ReactJS, Prompt Engineering (Chat GPT)**
 
-- 👯 Building an  **app named SimpleCode using ReactJs, JSX, JS.**
+- 👯 Published an **app named SimpleCode using ReactJs, JSX, JS.**
 
 - 📫 How to reach me : **onkarchavan830@gmail.com**
 
