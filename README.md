@@ -16,7 +16,7 @@
 
 - 📫 How to reach me : **onkarchavan830@gmail.com**
 
-- ⚡ Fun fact : **Gaming is my hobby but coding is my passion.**
+- ⚡ Fun fact : **Coding is like DRUGS but errors are Addictions.**
 
 - 🏆Achievements : **Running a Youtube Channel Successfully with over 7K+ Family & Discord Server with 1200+ Members.**
 
