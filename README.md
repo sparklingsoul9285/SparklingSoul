@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ReactJS.**
 
-- 👯 Recently made a **clone of Amazon webpage.**
+- 👯 Building an  **app named SimpleCode using ReactJs, JSX, JS**
 
 - 📫 How to reach me : **onkarchavan830@gmail.com**
 
