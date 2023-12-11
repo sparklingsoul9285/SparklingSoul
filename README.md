@@ -2,7 +2,7 @@
 ![198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd](https://github.com/sparklingsoul9285/SparklingSoul/assets/96675205/aa6f7b51-7bf6-46cc-b87c-31c89f36bf81)
 
 <h1 align="center">Hi 👋, I'm Onkar</h1>
-<h3 align="center">I'm a Full-Stack developer from Maharashtra, India</h3>
+<h3 align="center">I'm a FrontEnd and BackEnd Developer from Maharashtra, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparkilngsoul9285&label=Profile%20views&color=0e75b6&style=flat" alt="sparkilngsoul9285" /> </p>
 
